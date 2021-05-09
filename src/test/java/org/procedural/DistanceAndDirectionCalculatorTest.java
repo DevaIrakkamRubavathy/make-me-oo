@@ -2,7 +2,6 @@ package org.procedural;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
 import static org.procedural.DistanceAndDirectionCalculator.direction;
 import static org.procedural.DistanceAndDirectionCalculator.distance;
 
